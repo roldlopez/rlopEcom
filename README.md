@@ -1,2 +1,1 @@
-# rlopEcom
-React js e-commerce
+Por algo se empieza...
