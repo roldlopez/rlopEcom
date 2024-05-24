@@ -1,0 +1,113 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 16px;
+  font-family: sans-serif;
+  color: #000;
+  line-height: 1.2;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+small {
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+em, 
+strong,
+b { 
+    font-style: normal;
+    font-weight: normal;
+    /* font-family: $telefonica-bold; */
+}
+
+a {
+    text-decoration: none;
+    &:hover { text-decoration: none; }
+}
+
+mark { 
+  background: transparent;
+}
+
+input {
+  &:focus {
+    outline: none;
+    box-shadow: 0;
+  }
+
+  &::placeholder {
+    opacity: 1;
+  }
+}
+
+fieldset { 
+  border-width: 0;
+}
+
+button {
+  background: transparent;
+  border-width: 0;
+  cursor: pointer;
+}
+
+button:active {
+  color: inherit;
+}
+
+button:focus {
+  outline: none;
+}
+
+button:required {
+  box-shadow: none;
+}
+
+ul, 
+ol {
+  list-style: none;
+}
+
+label,
+svg,
+video,
+canvas,
+audio,
+iframe,
+embed,
+object {
+  display: block;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th {
+  text-align: inherit;
+}
+
+span {
+  vertical-align: unset;
+}
+
+[hidden] {
+  display:none!important;
+}
+
+.re-container {
+    width: calc(100% - 30px);
+    margin: 0 auto;
+    max-width: 1070px;
+}
