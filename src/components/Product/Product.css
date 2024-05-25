@@ -1,0 +1,54 @@
+.re-prod-phone {
+    background-color: #fff;
+    border-radius: 16px;
+    padding: 15px;
+    border: 1px solid #dedede;
+    width: calc(100% / 3 - 10px);
+}
+
+.re-prod-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: calc(70% - 30px);
+}
+
+.re-prod-img {
+    max-width: 180px;
+    width: 100%;
+    display: block;
+    margin: 0 auto 15px;
+}
+
+.re-prod-name {
+    color: #000;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.re-prod-normal {
+    font-size: 14px;
+    color: #b3b3b3;
+    display: block;
+}
+
+.re-prod-price {
+    font-size: 16px;
+    font-weight: bolder;
+    color: #000;
+}
+
+.re-prod-mark {
+    position: relative;
+    top: -3px;
+    font-size: 12px;
+    color: #e63780;
+    background: rgba(251, 199, 222, .3);
+    border-radius: 3px;
+    padding: 2px 6px 3px;
+}
+
+.re-prod-cuotas {
+    font-size: 14px;
+    color: #000;
+}
