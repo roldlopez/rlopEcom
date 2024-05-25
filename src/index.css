@@ -110,4 +110,6 @@ span {
     width: calc(100% - 30px);
     margin: 0 auto;
     max-width: 1070px;
+    display: flex;
+    flex-wrap: wrap;
 }
