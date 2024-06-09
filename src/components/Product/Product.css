@@ -4,14 +4,14 @@
     padding: 15px;
     border: 1px solid #dedede;
     width: calc(100% / 3 - 10px);
+    margin: 0 0px 15px;
 }
 
 .re-prod-container {
     display: flex;
     flex-wrap: wrap;
-    padding-top: 15px;
     justify-content: space-between;
-    width: calc(70% - 30px);
+    width: calc(70% - 15px);
 }
 
 .re-prod-img {

@@ -1,3 +1,5 @@
+import '../Filter/Filter.css';
+
 function Filter() {
     return (
       <div>
