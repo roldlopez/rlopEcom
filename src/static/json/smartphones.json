@@ -1,0 +1,48 @@
+[
+    {
+
+        "id": "1",
+        "categoria": "apple",
+        "marca": "Apple",
+        "equipo": "iPhone 14 128GB Medianoche",
+        "img": "400x557_Apple_iPhone_14_128GB_Medianoche.png",
+        "camaleon": "45144",
+        "pie": "589990",
+        "precio_normal": "949990",
+        "valor": "931990",
+        "descuento": "0",
+        "pcuota": "19000",
+        "cuotas": "18",
+        "cucarda": "Precio Exclusivo App"
+    },
+    {
+        "id": "2",
+        "categoria": "apple",
+        "marca": "Apple",
+        "equipo": "iPhone 14 128GB Azul",
+        "img": "400x557_Apple_iPhone_14_128GB_Azul.png",
+        "camaleon": "45145",
+        "pie": "589990",
+        "precio_normal": "949990",
+        "valor": "931990",
+        "descuento": "0",
+        "pcuota": "19000",
+        "cuotas": "18",
+        "cucarda": ""
+    },
+    {
+        "id": "3",
+        "categoria": "samsumg",
+        "marca": "Samsung",
+        "equipo": "Galaxy S21 FE 128GB Blanco",
+        "img": "400x557_Samsung_Galaxy_S21_FE_128GB_Blanco.png",
+        "camaleon": "45146",
+        "pie": "589990",
+        "precio_normal": "949990",
+        "valor": "931990",
+        "descuento": "0",
+        "pcuota": "19000",
+        "cuotas": "18",
+        "cucarda": ""
+    }
+]

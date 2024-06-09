@@ -1,0 +1,24 @@
+.re-sidebar {
+    width: calc(30% - 15px);
+}
+
+.re-sidebar .re-sidebar-content {
+    padding: 15px;
+}
+
+.re-sidebar .re-sidebar-content .re-sidebar-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.re-sidebar .re-sidebar-content .re-sidebar-filter {
+    margin-bottom: 10px;
+    display: block;
+    width: 100%;
+    text-align: left;
+}
+
+.re-sidebar .re-sidebar-content .re-sidebar-filter.active {
+    font-weight: bold;
+}
