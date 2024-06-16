@@ -1,5 +1,4 @@
 import  '../Sidebar/Sidebar.css';
-
 function Sidebar() {
     return (
     <div className="re-sidebar">
